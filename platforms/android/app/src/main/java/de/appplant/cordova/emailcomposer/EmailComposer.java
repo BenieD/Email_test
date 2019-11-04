@@ -1,0 +1,1 @@
+../../../../../../../../../../../cordova-plugin-email-composer/src/android/EmailComposer.java

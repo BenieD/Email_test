@@ -1,0 +1,16 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {},
+    "cordova-plugin-device": {},
+    "cordova-plugin-email-composer": {},
+    "cordova-plugin-x-toast": {}
+  },
+  "dependent_plugins": {}
+}

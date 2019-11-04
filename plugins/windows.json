@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-email-composer": {
+      "PACKAGE_NAME": "EmailExample"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "EmailExample"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "EmailExample"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "EmailExample"
+    }
+  },
+  "dependent_plugins": {}
+}
